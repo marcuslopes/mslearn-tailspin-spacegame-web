@@ -1,0 +1,7 @@
+organization=space-game-web-370
+projectKey=marcuslopes_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8352
+dashboardUrl=https://sonarcloud.io/dashboard?id=marcuslopes_mslearn-tailspin-spacegame-web
+ceTaskId=AXJXvjCm2orM5ceci4Jr
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXJXvjCm2orM5ceci4Jr
